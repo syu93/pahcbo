@@ -1,0 +1,4 @@
+wp-config.php
+*.sublime-workspace
+*.sublime-project
+npm-debug.log
