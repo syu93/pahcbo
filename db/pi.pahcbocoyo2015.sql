@@ -116,8 +116,8 @@ CREATE TABLE IF NOT EXISTS `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://dev.pahcbo.com', 'yes'),
-(2, 'home', 'http://dev.pahcbo.com', 'yes'),
+(1, 'siteurl', 'http://pinnackl.freeboxos.fr:8080/pahcbo', 'yes'),
+(2, 'home', 'http://pinnackl.freeboxos.fr:8080/pahcbo', 'yes'),
 (3, 'blogname', 'Pahcbo', 'yes'),
 (4, 'blogdescription', 'Projet de développement Socio-comcommunautaire', 'yes'),
 (5, 'users_can_register', '1', 'yes'),
